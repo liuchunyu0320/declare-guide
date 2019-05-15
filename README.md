@@ -1,3 +1,8 @@
-# My Awesome Book
+# **版权声明**
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+### 版权声明 
+
+本手册中的所有内容及格式的版权属于长春市农业信息中心所有
+
+
+

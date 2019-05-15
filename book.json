@@ -1,0 +1,31 @@
+{
+  "title": "\u7533\u62a5\u6307\u5357",
+  "description": "",
+  "language": "zh",
+  
+  "plugins": [
+    "disqus",
+    "github",
+    "prism",
+    "-highlight",
+    "splitter",
+    "-sharing",
+    "-fontsettings",
+    "theme-vuejs-2",
+    "collapsible-menu",
+"expandable-chapters",
+    "mermaid-gb3",
+    "sitemap"
+  ],
+  "pluginsConfig": {
+    "disqus": {
+      "shortName": "webpack-handbook"
+    },
+    "github": {
+      "url": "https://github.com/zhaoda/webpack-handbook"
+    },
+    "sitemap": {
+        "hostname": "http://zhaoda.net/"
+    }
+  }
+}
