@@ -2,7 +2,9 @@
   "title": "\u7533\u62a5\u6307\u5357",
   "description": "",
   "language": "zh",
-  
+  "styles": {
+    "website": "assets/website.css"
+  },
   "plugins": [
     "disqus",
     "github",
